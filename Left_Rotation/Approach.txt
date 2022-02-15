@@ -1,0 +1,5 @@
+In this question I have applied the concept of 2-d array, i have the found the index of the array after the left rotation.
+
+
+Formula used:
+index=(current index + total no. of rotation required)%array_length
